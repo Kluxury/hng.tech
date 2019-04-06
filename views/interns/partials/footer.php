@@ -5,11 +5,11 @@
 		</div>
 		<div class="footer-address">
 			<p class="">
-				3 Birrel Avenue, Sabo. <br>Yaba, Lagos State, <br>Nigeria
+				 25 Olumide Street, Goshen Estate,Asero. <br>Abeokuta, Ogun State, <br>Nigeria
 			</p>
 		</div>
 		<div class="footer-contact">
-			<p class="">interns@hng.tech <br>+234 (0) 812 345 6789</p>
+			<p class="">interns@hng.tech <br>+234 (0) 8103948099</p>
 		</div>
 		<div class="footer-btn-container">
 			<a href="mailto:interns@hng.tech" class="primary-button footer-btn">Contact us</a>
